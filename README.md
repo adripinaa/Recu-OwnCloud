@@ -55,9 +55,16 @@ Estas han sido todas las comandas que he necsitado para poder instalar OwnCLoud.
 
 Paso 4: Demostració del funcionament:
 
-He empezado creando una cuenta de OwnCloud con mis datos y creando carpetas por probar, que mi nombre es "Hola".
+He empezado creando una cuenta de OwnCloud con mis datos.
 
-Clcas en las tres rayas de menú y seguidamente en el "+", le das a folder, le añades nombre y ya estaria creada-
+![Captura desde 2025-05-08 13-34-52](https://github.com/user-attachments/assets/474c953b-3585-4025-bad7-5174e56eeb3b)
+
+
+También creando carpetas por probar, el nombre es "Hola".
+
+Clcas en las tres rayas de menú y seguidamente en el "+", le das a folder, le añades nombre y ya estaria creada.
+
+
 
 
 
