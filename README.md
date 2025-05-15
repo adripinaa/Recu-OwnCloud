@@ -1,5 +1,23 @@
 # Recu-OwnCloud
 
+Paso 1: Configuració del sistema de virtualització (IsardVDI):
+
+Dentro de IsardVDI creas un escritorio y le pones un nombre como en mi caso "recu rusben", le das a crea y inicias la maquina
+
+![Captura de pantalla de 2025-05-15 10-42-18](https://github.com/user-attachments/assets/f6ad58bb-fb42-4a24-add8-4b86407b7174)
+![Captura de pantalla de 2025-05-15 10-42-24](https://github.com/user-attachments/assets/099f8be3-e73f-4fa4-80e3-b488e39d64f8)
+![Captura de pantalla de 2025-05-15 10-42-40](https://github.com/user-attachments/assets/aedb145f-548f-4de7-9806-aa7942f64742)
+
+Cuando salga esa pantalla tienes que ecribir la contraseña "usuario" para inicar sesión.
+
+![Captura de pantalla de 2025-05-15 10-44-53](https://github.com/user-attachments/assets/d5b04523-6704-438d-9409-1764d83a94fc)
+![Captura de pantalla de 2025-05-15 10-45-02](https://github.com/user-attachments/assets/56f2ceb5-3070-4694-8d61-a36d16bb3fc4)
+
+Ya dentro abres la terminal y pones los siguientes pasos: 
+
+![Captura de pantalla de 2025-05-15 10-48-03](https://github.com/user-attachments/assets/418088f9-9646-4c1f-9247-c121576974c9)
+
+
 Estas han sido todas las comandas que he necsitado para poder instalar OwnCLoud.
 
 ![Captura desde 2025-05-08 13-32-55](https://github.com/user-attachments/assets/fc699590-0af1-4d22-80ca-aed7ec064848)
@@ -35,8 +53,19 @@ Estas han sido todas las comandas que he necsitado para poder instalar OwnCLoud.
 ![Captura desde 2025-05-08 12-52-55](https://github.com/user-attachments/assets/1441c46c-8613-4c15-b365-c863d1987de1)
 ![Captura desde 2025-05-08 12-35-19](https://github.com/user-attachments/assets/1b56be31-e2a7-4096-a5c5-becdc1a072d2)
 
+Paso 4: Demostració del funcionament:
 
-He empezado creando una cuenta de OwnCloud con mis datos
+He empezado creando una cuenta de OwnCloud con mis datos y creando carpetas por probar, que mi nombre es "Hola".
+
+Clcas en las tres rayas de menú y seguidamente en el "+", le das a folder, le añades nombre y ya estaria creada-
+
+![Captura de pantalla de 2025-05-15 10-50-06](https://github.com/user-attachments/assets/99ec055f-afe6-4bb4-8fe2-138f9c32bf1e)
+![Captura de pantalla de 2025-05-15 10-50-16](https://github.com/user-attachments/assets/4053ce07-5d07-4bf5-85a7-4aab82cc7895)
+![Captura de pantalla de 2025-05-15 10-51-46](https://github.com/user-attachments/assets/aca63751-f34e-45d1-88ff-bf558592af9c)
+![Captura de pantalla de 2025-05-15 10-52-02](https://github.com/user-attachments/assets/063215b7-7e29-4cec-9fc5-d81128714bfa)
+
+
+
 
 ![Captura desde 2025-05-08 13-34-52](https://github.com/user-attachments/assets/7c8e79d1-2488-41de-ba07-9bbf911b463c)
 
@@ -48,8 +77,11 @@ Ya dentro he tenido que crear usuarios y a estos ponerle roles
 
 Debes escribir el nombre que quieres añadirle a tu usuario, como en mi caso estos.
 
-![Captura desde 2025-05-08 13-38-26](https://github.com/user-attachments/assets/6e7bc6dd-56ab-48bb-9793-c6bd719c260c)
-![Captura de pantalla de 2025-05-15 10-18-21](https://github.com/user-attachments/assets/1a50c9aa-9fb7-4343-bc91-7cf3c8c9d9bf)
+Crear almenys tres usuaris amb diferents rols (administrador, editor, visualitzador).:
+![Captura de pantalla de 2025-05-15 10-36-38](https://github.com/user-attachments/assets/69acc84d-14a8-47c9-b65f-7f05c7a742c8)
+![Captura de pantalla de 2025-05-15 10-38-41](https://github.com/user-attachments/assets/7a498e82-4e36-4c5c-844a-1aecef9ce31d)
+![Captura de pantalla de 2025-05-15 10-38-55](https://github.com/user-attachments/assets/2322c69c-663e-41a9-97e9-859ab9ae2061)
+
 
 
 Seguidamente debes de meter una carpeta.
