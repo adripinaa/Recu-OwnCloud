@@ -58,17 +58,8 @@ Pasos 6: Assignació de rols i permisos:
 
 A continuacion tienes que modificar los permisos de los usuarios.
 En mi caso por ejemplo a gerson le he quitado que pueda compartir la carpeta ni que la pueda eliminar, y a issan solo le he quitado que pueda compartirla.
+
 ![Captura de pantalla de 2025-05-15 10-17-28](https://github.com/user-attachments/assets/6f35a55e-9527-4ee8-afcd-adc2c2fad42d)
-
-
-
-![Captura de pantalla de 2025-05-14 13-07-20](https://github.com/user-attachments/assets/df3066b5-0ed5-423f-86e0-a572cea0ce6d)
-![Captura de pantalla de 2025-05-15 10-14-32](https://github.com/user-attachments/assets/cd4dce30-5bba-4f8e-82ca-00bc1fec195e)
-![Captura de pantalla de 2025-05-15 10-14-47](https://github.com/user-attachments/assets/cfdc5e15-07be-405a-b837-45c64185d2a3)
-![Captura de pantalla de 2025-05-15 10-15-18](https://github.com/user-attachments/assets/a755ccf0-ff80-4208-996a-3112671ee92a)
-![Captura de pantalla de 2025-05-15 10-15-27](https://github.com/user-attachments/assets/2f844739-2050-4588-861f-2af371efdd64)
-
-
 ![Captura desde 2025-05-09 13-21-29](https://github.com/user-attachments/assets/4792dede-d74e-4c2f-a8ef-e1d5fbbf77a5)
 ![Captura desde 2025-05-09 13-21-52](https://github.com/user-attachments/assets/be2da7a6-68d2-491c-a7cb-a6394d18b2f4)
 
