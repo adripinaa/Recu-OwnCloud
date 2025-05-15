@@ -59,10 +59,7 @@ He empezado creando una cuenta de OwnCloud con mis datos y creando carpetas por 
 
 Clcas en las tres rayas de menú y seguidamente en el "+", le das a folder, le añades nombre y ya estaria creada-
 
-![Captura de pantalla de 2025-05-15 10-50-06](https://github.com/user-attachments/assets/99ec055f-afe6-4bb4-8fe2-138f9c32bf1e)
-![Captura de pantalla de 2025-05-15 10-50-16](https://github.com/user-attachments/assets/4053ce07-5d07-4bf5-85a7-4aab82cc7895)
-![Captura de pantalla de 2025-05-15 10-51-46](https://github.com/user-attachments/assets/aca63751-f34e-45d1-88ff-bf558592af9c)
-![Captura de pantalla de 2025-05-15 10-52-02](https://github.com/user-attachments/assets/063215b7-7e29-4cec-9fc5-d81128714bfa)
+
 
 
 
