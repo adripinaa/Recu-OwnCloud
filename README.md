@@ -75,7 +75,8 @@ En mi caso por ejemplo a gerson le he quitado que pueda compartir la carpeta ni 
 Paso 7: Administració d’arxius:
 
 Organitzar arxius i carpetes.
-![Captura de pantalla de 2025-05-15 10-18-21](https://github.com/user-attachments/assets/3c48d603-2475-46e0-a4d7-623f91952ce3)
+![Captura de pantalla de 2025-05-15 10-14-47](https://github.com/user-attachments/assets/cbee31b2-d45c-46f1-92f5-655eae124873)
+
 
 
 En este paso he organizado un archivo en una carpeta, "Configurar polítiques de seguretat (com ara la caducitat dels enllaços compartits":
