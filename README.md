@@ -1,6 +1,6 @@
 # Recu-OwnCloud
 
-Paso 1: Configuració del sistema de virtualització (IsardVDI):
+## Paso 1: Configuració del sistema de virtualització (IsardVDI):
 
 Dentro de IsardVDI creas un escritorio y le pones un nombre como en mi caso "recu rusben", le das a crea y inicias la maquina
 
@@ -53,27 +53,24 @@ Estas han sido todas las comandas que he necsitado para poder instalar OwnCLoud.
 ![Captura desde 2025-05-08 12-52-55](https://github.com/user-attachments/assets/1441c46c-8613-4c15-b365-c863d1987de1)
 ![Captura desde 2025-05-08 12-35-19](https://github.com/user-attachments/assets/1b56be31-e2a7-4096-a5c5-becdc1a072d2)
 
-Paso 4: Demostració del funcionament:
+## Paso 4: Demostració del funcionament:
 
 He empezado creando una cuenta de OwnCloud con mis datos.
 
 ![Captura desde 2025-05-08 13-34-52](https://github.com/user-attachments/assets/474c953b-3585-4025-bad7-5174e56eeb3b)
+![Captura de pantalla de 2025-05-15 10-55-14](https://github.com/user-attachments/assets/91665e60-afc3-46f6-bc0e-9276c6d94f4b)
+
 
 
 También creando carpetas por probar, el nombre es "Hola".
+Clicas en las tres rayas de menú y seguidamente en el "+", le das a folder, le añades nombre y ya estaria creada.
 
-Clcas en las tres rayas de menú y seguidamente en el "+", le das a folder, le añades nombre y ya estaria creada.
+![Captura de pantalla de 2025-05-15 10-50-06](https://github.com/user-attachments/assets/cd54f143-847d-44c1-9ec6-deabb1d4124d)
+![Captura de pantalla de 2025-05-15 10-50-16](https://github.com/user-attachments/assets/1d816df6-8838-4f5d-93bc-884b697e1ba7)
+![Captura de pantalla de 2025-05-15 10-51-46](https://github.com/user-attachments/assets/f22c66c1-d208-4fc8-a623-69a741bd6da5)
+![Captura de pantalla de 2025-05-15 10-52-02](https://github.com/user-attachments/assets/40a213ac-b968-4c45-ba41-a50c61a34690)
 
-
-
-
-
-
-
-
-![Captura desde 2025-05-08 13-34-52](https://github.com/user-attachments/assets/7c8e79d1-2488-41de-ba07-9bbf911b463c)
-
-Paso 5: Creació d’usuaris:
+## Paso 5: Creació d’usuaris:
 
 Ya dentro he tenido que crear usuarios y a estos ponerle roles
 
@@ -95,7 +92,7 @@ Para meter una debes irte a "+", folder y elegir la carpeta que en mi caso es "O
 ![Captura desde 2025-05-08 13-53-54](https://github.com/user-attachments/assets/418ae892-3195-4531-aba2-3fc6c55ec15b)
 ![Captura desde 2025-05-08 13-56-59](https://github.com/user-attachments/assets/f38ba7d9-3467-466e-b72e-79a6d382ebea)
 
-Pasos 6: Assignació de rols i permisos:
+## Paso 6: Assignació de rols i permisos:
 
 A continuacion tienes que modificar los permisos de los usuarios.
 En mi caso por ejemplo a gerson le he quitado que pueda compartir la carpeta ni que la pueda eliminar, y a issan solo le he quitado que pueda compartirla.
@@ -105,7 +102,7 @@ En mi caso por ejemplo a gerson le he quitado que pueda compartir la carpeta ni 
 ![Captura desde 2025-05-09 13-21-29](https://github.com/user-attachments/assets/4792dede-d74e-4c2f-a8ef-e1d5fbbf77a5)
 ![Captura desde 2025-05-09 13-21-52](https://github.com/user-attachments/assets/be2da7a6-68d2-491c-a7cb-a6394d18b2f4)
 
-Paso 7: Administració d’arxius:
+## Paso 7: Administració d’arxius:
 
 Organitzar arxius i carpetes.
 
