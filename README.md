@@ -39,11 +39,14 @@ Estas han sido todas las comandas que he necsitado para poder instalar OwnCLoud.
 He empezado creando una cuenta de OwnCloud con mis datos
 ![Captura desde 2025-05-08 13-34-52](https://github.com/user-attachments/assets/7c8e79d1-2488-41de-ba07-9bbf911b463c)
 
+Paso 5: Creació d’usuaris:
+
 Ya dentro he tenido que crear usuarios y a estos ponerle roles
 ![Captura desde 2025-05-08 13-36-48](https://github.com/user-attachments/assets/bef51e10-b2f7-480e-b9f2-30dc3e96ec1c)
-Debes escribir el nombre que quieres añadirle a tu usuario, como en mi caso "gersonaglo"
+Debes escribir el nombre que quieres añadirle a tu usuario, como en mi caso estos.
 ![Captura desde 2025-05-08 13-38-26](https://github.com/user-attachments/assets/6e7bc6dd-56ab-48bb-9793-c6bd719c260c)
-![Captura desde 2025-05-08 13-38-50](https://github.com/user-attachments/assets/a17fbd05-6df9-41cf-99db-f0e0a7b73614)
+![Captura de pantalla de 2025-05-15 10-18-21](https://github.com/user-attachments/assets/1a50c9aa-9fb7-4343-bc91-7cf3c8c9d9bf)
+
 
 Seguidamente debes de meter una carpeta.
 Para meter una debes irte a "+", folder y elegir la carpeta que en mi caso es "OwnCloud"
@@ -51,8 +54,35 @@ Para meter una debes irte a "+", folder y elegir la carpeta que en mi caso es "O
 ![Captura desde 2025-05-08 13-53-54](https://github.com/user-attachments/assets/418ae892-3195-4531-aba2-3fc6c55ec15b)
 ![Captura desde 2025-05-08 13-56-59](https://github.com/user-attachments/assets/f38ba7d9-3467-466e-b72e-79a6d382ebea)
 
+Pasos 6: Assignació de rols i permisos:
+
 A continuacion tienes que modificar los permisos de los usuarios.
 En mi caso por ejemplo a gerson le he quitado que pueda compartir la carpeta ni que la pueda eliminar, y a issan solo le he quitado que pueda compartirla.
+![Captura de pantalla de 2025-05-15 10-17-28](https://github.com/user-attachments/assets/6f35a55e-9527-4ee8-afcd-adc2c2fad42d)
+
+
+
+![Captura de pantalla de 2025-05-14 13-07-20](https://github.com/user-attachments/assets/df3066b5-0ed5-423f-86e0-a572cea0ce6d)
+![Captura de pantalla de 2025-05-15 10-14-32](https://github.com/user-attachments/assets/cd4dce30-5bba-4f8e-82ca-00bc1fec195e)
+![Captura de pantalla de 2025-05-15 10-14-47](https://github.com/user-attachments/assets/cfdc5e15-07be-405a-b837-45c64185d2a3)
+![Captura de pantalla de 2025-05-15 10-15-18](https://github.com/user-attachments/assets/a755ccf0-ff80-4208-996a-3112671ee92a)
+![Captura de pantalla de 2025-05-15 10-15-27](https://github.com/user-attachments/assets/2f844739-2050-4588-861f-2af371efdd64)
+
 
 ![Captura desde 2025-05-09 13-21-29](https://github.com/user-attachments/assets/4792dede-d74e-4c2f-a8ef-e1d5fbbf77a5)
 ![Captura desde 2025-05-09 13-21-52](https://github.com/user-attachments/assets/be2da7a6-68d2-491c-a7cb-a6394d18b2f4)
+
+Paso 7: Administració d’arxius:
+
+Organitzar arxius i carpetes.
+![Captura de pantalla de 2025-05-15 10-18-21](https://github.com/user-attachments/assets/3c48d603-2475-46e0-a4d7-623f91952ce3)
+
+
+En este paso he organizado un archivo en una carpeta, "Configurar polítiques de seguretat (com ara la caducitat dels enllaços compartits":
+![Captura de pantalla de 2025-05-14 13-07-20](https://github.com/user-attachments/assets/df3066b5-0ed5-423f-86e0-a572cea0ce6d)
+![Captura de pantalla de 2025-05-15 10-14-32](https://github.com/user-attachments/assets/cd4dce30-5bba-4f8e-82ca-00bc1fec195e)
+![Captura de pantalla de 2025-05-15 10-14-47](https://github.com/user-attachments/assets/cfdc5e15-07be-405a-b837-45c64185d2a3)
+![Captura de pantalla de 2025-05-15 10-15-18](https://github.com/user-attachments/assets/a755ccf0-ff80-4208-996a-3112671ee92a)
+![Captura de pantalla de 2025-05-15 10-15-27](https://github.com/user-attachments/assets/2f844739-2050-4588-861f-2af371efdd64)
+
+
